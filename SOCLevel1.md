@@ -9,7 +9,9 @@ This comprehensive path covers the necessary technical and operational skills to
 
 ## Completed Modules for SOC Level 1
 Blue Team Introduction --> Explore the Blue Team and its core. Learn why defensive security is essential and how it helps organizations
+
 SOC Team Internals --> Essential Soc Analyst skills to help triage, classify, and escalate alerts
+
 Core SOC Solutions --> Covers SIEM, EDR, and SOAR 
 
 ## In Process Module
