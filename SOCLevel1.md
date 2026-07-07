@@ -10,12 +10,12 @@ This comprehensive path covers the necessary technical and operational skills to
 ## Completed Modules for SOC Level 1
 Blue Team Introduction --> Explore the Blue Team and its core. Learn why defensive security is essential and how it helps organizations
 SOC Team Internals --> Essential Soc Analyst skills to help triage, classify, and escalate alerts
-
-## In Process Module
 Core SOC Solutions --> Covers SIEM, EDR, and SOAR 
 
-## Remaining Modules
+## In Process Module
 Cyber Defence Frameworks --> learn defensive frameworks such as Pyramid of Pain, Cyber Kill Chain, and Mitre
+
+## Remaining Modules
 Phishing Analysis --> Analyse and defend against phishing emails
 Network Traffic Analysis --> basics of network traffic analysis and use Wireshark
 Network Security Monitoring --> Fundamentals with monitoring network perimeters and analysing network traffic and logs 
