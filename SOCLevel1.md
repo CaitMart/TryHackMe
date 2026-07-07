@@ -1,22 +1,20 @@
+
+# SOC Level 1 Certification Path
 Currently completing the SOC Level 1 Path. 
 
-SOC Level 1 Description
-----------------------------------------------------------------
+## SOC Level 1 Description
 The Security Operations Center (SOC) is a central hub for securing many large organizations, and junior analysts are among the most numerous and demanding roles in a SOC. 
 In the analyst role, you will work with logs, triage and prioritize alerts, collaborate with your teammates and other departments, and be the first line of defense in reacting to cyber incidents. 
 This comprehensive path covers the necessary technical and operational skills to make you a qualified, universal SOC analyst.
 
-Completed Modules for SOC Level 1
-----------------------------------------------------------------
+## Completed Modules for SOC Level 1
 Blue Team Introduction --> Explore the Blue Team and its core. Learn why defensive security is essential and how it helps organizations
 SOC Team Internals --> Essential Soc Analyst skills to help triage, classify, and escalate alerts
 
-In Process Module
------------------------------------------------------------------
+## In Process Module
 Core SOC Solutions --> Covers SIEM, EDR, and SOAR 
 
-Remaining Modules
------------------------------------------------------------------
+## Remaining Modules
 Cyber Defence Frameworks --> learn defensive frameworks such as Pyramid of Pain, Cyber Kill Chain, and Mitre
 Phishing Analysis --> Analyse and defend against phishing emails
 Network Traffic Analysis --> basics of network traffic analysis and use Wireshark
